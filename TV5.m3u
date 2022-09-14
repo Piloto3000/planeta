@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CNLDHEH" tvg-name="DHE HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s81623_ll_h3_aa.png" group-title="CINE PREMIUM",DHE HD(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46124
+#EXTINF:-1 tvg-id="GOLDNHD" tvg-name="GOLDEN PLUS" tvg-logo="http://fanc.tmsimg.com/assets/s68317_ll_h3_ab.png" group-title="CINE PREMIUM",GOLDEN PLUS
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46138
+#EXTINF:-1 tvg-id="GLDPRA" tvg-name="GOLDEN PREMIER HD" tvg-logo="http://fanc.tmsimg.com/assets/s80596_ll_h3_ab.png" group-title="CINE PREMIUM",GOLDEN PREMIER HD
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46141
+#EXTINF:-1 tvg-id="GLDENH" tvg-name="GOLDEN HD" tvg-logo="http://fanc.tmsimg.com/assets/s50709_ll_h3_aa.png" group-title="CINE PREMIUM",GOLDEN HD
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46143
+#EXTINF:-1 tvg-id="HBOCHIH" tvg-name="HBO AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s10240_ll_h3_aa.png" group-title="CINE PREMIUM",HBO AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46145
+#EXTINF:-1 tvg-id="HBO2LA" tvg-name="HBO 2 AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68140_ll_h3_aa.png" group-title="CINE PREMIUM",HBO 2 AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46149
+#EXTINF:-1 tvg-id="HBOFMHD" tvg-name="HBO Family AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34879_h3_aa.png" group-title="CINE PREMIUM",HBO Family AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46152
+#EXTINF:-1 tvg-id="HBODA" tvg-name="HBO Plus AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34725_ll_h3_aa.png" group-title="CINE PREMIUM",HBO Plus AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46156
+#EXTINF:-1 tvg-id="HBOSDA" tvg-name="HBO Signature CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s80120_ll_h3_aa.png" group-title="CINE PREMIUM",HBO Signature CO(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46161
+#EXTINF:-1 tvg-id="POPAM" tvg-name="HBO POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="CINE PREMIUM",HBO POP HD
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/96202
+#EXTINF:-1 tvg-id="MUNCASH" tvg-name="HBO MUNDI HD" tvg-logo="http://fanc.tmsimg.com/assets/s70081_ll_h3_ab.png" group-title="CINE PREMIUM",HBO MUNDI HD
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/96204
+#EXTINF:-1 tvg-id="HBOXA2" tvg-name="HBO XTREME HD" tvg-logo="http://fanc.tmsimg.com/assets/s80211_ll_h3_ab.png" group-title="CINE PREMIUM",HBO XTREME HD
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/96207
+#EXTINF:-1 tvg-id="MPREL" tvg-name="MULTIPREMIER SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s18169_ll_h3_ab.png" group-title="CINE PREMIUM",MULTIPREMIER SD(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46169
+#EXTINF:-1 tvg-id="SPACEHD" tvg-name="Space HD AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68021_ll_h3_aa.png" group-title="CINE PREMIUM",Space HD AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46179
+#EXTINF:-1 tvg-id="PARMDA" tvg-name="Paramount Channel HD AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="CINE PREMIUM",Paramount Channel HD AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46171
+#EXTINF:-1 tvg-id="FXCHD" tvg-name="FX HD AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s73682_ll_h3_aa.png" group-title="CINE PREMIUM",FX HD AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46132
+#EXTINF:-1 tvg-id="CINECHL" tvg-name="Cinemax AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s16794_h3_aa.png" group-title="CINE PREMIUM",Cinemax AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46112
+#EXTINF:-1 tvg-id="CCANAM" tvg-name="Cinecanal AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE PREMIUM",Cinecanal AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46110
+#EXTINF:-1 tvg-id="A3CI" tvg-name="Atrescine AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s82808_ll_h3_aa.png" group-title="CINE PREMIUM",Atrescine AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46098
+#EXTINF:-1 tvg-id="AMCCOAM" tvg-name="AMC AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s90653_ll_h3_ac.png" group-title="CINE PREMIUM",AMC AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46090
+#EXTINF:-1 tvg-id="AXNARG" tvg-name="AXN AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s17484_ll_h3_ab.png" group-title="CINE PREMIUM",AXN AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46095
+#EXTINF:-1 tvg-id="AEMXHD" tvg-name="A&E HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="CINE PREMIUM",A&E HD (E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46087
+#EXTINF:-1 tvg-id="" tvg-name="STAR Channel HD" tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="CINE PREMIUM",STAR Channel HD
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46186
+#EXTINF:-1 tvg-id="STULA" tvg-name="Studio Universal AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s29017_ll_h3_aa.png" group-title="CINE PREMIUM",Studio Universal AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46219
+#EXTINF:-1 tvg-id="SYFYHA" tvg-name="SyFy AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s56727_ll_h3_aa.png" group-title="CINE PREMIUM",SyFy AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46222
+#EXTINF:-1 tvg-id="TBSESPH" tvg-name="TBS AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s75073_ll_h3_ad.png" group-title="CINE PREMIUM",TBS AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46226
+#EXTINF:-1 tvg-id="TCMLC" tvg-name="TCM AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s19246_ll_h3_aa.png" group-title="CINE PREMIUM",TCM AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46230
+#EXTINF:-1 tvg-id="TNTARA" tvg-name="TNT AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s71727_ll_h3_aa.png" group-title="CINE PREMIUM",TNT AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46237
+#EXTINF:-1 tvg-id="TNTSEAM" tvg-name="TNT series AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s91993_ll_h3_aa.png" group-title="CINE PREMIUM",TNT series AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46241
+#EXTINF:-1 tvg-id="STULA" tvg-name="Studio Universal AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s29017_ll_h3_aa.png" group-title="CINE PREMIUM",Studio Universal AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46219
+#EXTINF:-1 tvg-id="UNTVARH" tvg-name="Universal AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s53218_h3_aa.png" group-title="CINE PREMIUM",Universal AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46245
+#EXTINF:-1 tvg-id="OLEAND" tvg-name="Warner Channel AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s16213_ll_h3_ab.png" group-title="CINE PREMIUM",Warner Channel AR(E)
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/46249
+#EXTINF:-1 tvg-id="MORBTV" tvg-name="Cine | Morbido TV FHD" tvg-logo="http://fanc.tmsimg.com/assets/s107890_ll_h3_aa.png" group-title="CINE PREMIUM",Cine | Morbido TV FHD
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/79427
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" group-title="CINE PREMIUM",UNIVERSAL CINEMA
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/90078
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest?cb=20220102015318&path-prefix=es" group-title="CINE PREMIUM",UNIVERSAL COMEDY
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/90081
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE 2 HD" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.604426719_UniversalPremiere.png.12f05e2df4549f210ad2f2219770e237.png" group-title="CINE PREMIUM",UNIVERSAL PREMIERE 2 HD
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/90082
+#EXTINF:-1 tvg-id="" tvg-name="ES : Fox FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwXPKGS4ZwCVrys6cTKe7X1dAP7-g_oQEkLOMZhrPwsFAw.png" group-title="CINE Y SERIES ESPAÑA",ES : Fox FHD
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/140631
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life HD" tvg-logo="http://fanc.tmsimg.com/assets/s102750_ll_h3_aa.png" group-title="CINE Y SERIES ESPAÑA",FOX Life HD
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/140632
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional HD" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo Internacional HD
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/4734
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="https://umbrellamedia.ro/wp-content/uploads/2015/11/500x500canal-d.jpg" group-title="ENTRETENIMIENTO",Kanal D Drama
+http://todoplus.digital:8080/Davidangel12/mpvPZ2GFSC/4693
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU." tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="Peru",GOL PERU.
+http://bulltv.us:2999/darlin/darlin/687
